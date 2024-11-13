@@ -19,14 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="game.cc" />
-    <ClCompile Include="graphics.cc" />
     <ClCompile Include="main.cc" />
     <ClCompile Include="ui_button.cc" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="game.h" />
-    <ClInclude Include="graphics.h" />
     <ClInclude Include="ui_button.h" />
   </ItemGroup>
   <ItemGroup>

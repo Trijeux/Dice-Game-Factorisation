@@ -15,12 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="game.cc">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="graphics.cc">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="main.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -29,12 +23,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="game.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="graphics.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="ui_button.h">
       <Filter>Header Files</Filter>
     </ClInclude>
